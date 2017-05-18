@@ -1,0 +1,4 @@
+getproducts()
+{
+    return "Products"
+}
